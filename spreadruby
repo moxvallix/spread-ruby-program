@@ -1,0 +1,5 @@
+git clone https://github.com/moxvallix/spread-ruby.git
+cd spread-ruby
+more about.txt
+sudo apt-get install ruby2.0
+ruby spread_ruby.rb
